@@ -12,8 +12,7 @@ Emacs
 lolcat
 vim
 
-# Nala Installation: 
-sudo apt update && sudo apt install Nala
+
 
 # Shell Color Scripts: 
 git clone https://gitlab.com/dwt1/shell-color-scripts.git
